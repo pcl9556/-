@@ -1,11 +1,10 @@
-# 19173072 박채린
-
 # 기말고사 대체 과제
 
  - https://github.com/pcl9556/-/blob/master/12_MyApplication_2.zip
 
  - https://github.com/pcl9556/-/blob/master/SampleRecyclerView.zip
 
+# 19173072 박채린
 
 hello my name is chaelin
 
