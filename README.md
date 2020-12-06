@@ -4,7 +4,7 @@
 
  - https://github.com/pcl9556/-/blob/master/SampleRecyclerView.zip
  
- - https://github.com/pcl9556/-/commit/6d10c772062cce40e860481d9646407a237942a4 캡처 이미지입니다.
+ - https://github.com/pcl9556/-/commit/6d10c772062cce40e860481d9646407a237942a4 하단에 캡처 이미지첨부 합니다.
  
  - 제가 처음에 개발하고자 했던 앱은 휴대폰의 소프트웨어 업데이트 관련된 내용입니다.
  업데이트 시 변화되는 주요기능과 업데이트 후 사용해 본 사람들의 후기를 보고 스스로 업데이트 여부를 결정 하는데 도움을 주는 앱을 개발하고자 했습니다.
